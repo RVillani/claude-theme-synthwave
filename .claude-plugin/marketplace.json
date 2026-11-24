@@ -1,0 +1,5 @@
+{
+  "name": "synthwave",
+  "owner": { "name": "RVillani" },
+  "plugins": [{ "name": "synthwave", "source": "./" }]
+}
